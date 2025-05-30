@@ -1,6 +1,8 @@
 ## 🚀 Full Stack Web Developer – MERN Stack
 
-Hi there 👋 I'm **Sakeer**, a passionate Full Stack Developer Skilled in buiding user friendly and scalable web application Using the **MERN Stack**. This repository contains my personal ans professional projects that showcase my self-learning journey also my abilities in full-stack development.
+# 👋 Hi there, I'm **Sakeer** — Full Stack Web Developer
+
+I'm a passionate Full Stack Developer skilled in building user-friendly and scalable web applications using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). This repository showcases both my personal and professional projects, reflecting my self-learning journey and practical abilities in full-stack development.
 
 ## 🛠️ Tech Stack
 
@@ -8,7 +10,17 @@ Hi there 👋 I'm **Sakeer**, a passionate Full Stack Developer Skilled in buidi
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB (Mongoose), My SQL
 - **Tools**: Git, GitHub, VS Code, Postman, Thunder Client  
-- **Other**: RESTful APIs, JWT Auth, Multer (File Upload), Email Verification, Session Handling  
+- **Other**: RESTful APIs, JWT Auth, Multer (File Upload), Email Verification, Session Handling
+
+## 🌱 My Ideology
+
+I believe in continuous learning and continuous integration to stay updated and deliver reliable, modern web applications.
+
+## 🧠 What I’m Learning
+- Advanced React patterns
+- Next.js
+- TypeScript integration  
+- Performance optimization  
 
 ## 🔭 I’m currently working on an E-commerce Web application
 A full-featured online shopping platform with:
@@ -27,7 +39,7 @@ A full-featured online shopping platform with:
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -35,3 +47,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ideology
+
